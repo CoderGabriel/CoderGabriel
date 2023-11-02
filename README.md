@@ -1,6 +1,6 @@
 ### Oi! meu nome é Gabriel
 
-###Estudante de Programação
+Estudante de Programação
 
 -😄***Atualmente Focado em Aprender, Cada Vez Mais a cada dia que se passa***
 
